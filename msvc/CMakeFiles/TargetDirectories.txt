@@ -1,0 +1,9 @@
+N:/Development/Dev_Base/spdlog-1.14.1/msvc/CMakeFiles/spdlog.dir
+N:/Development/Dev_Base/spdlog-1.14.1/msvc/CMakeFiles/PACKAGE.dir
+N:/Development/Dev_Base/spdlog-1.14.1/msvc/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/spdlog-1.14.1/msvc/CMakeFiles/ALL_BUILD.dir
+N:/Development/Dev_Base/spdlog-1.14.1/msvc/CMakeFiles/ZERO_CHECK.dir
+N:/Development/Dev_Base/spdlog-1.14.1/msvc/example/CMakeFiles/example.dir
+N:/Development/Dev_Base/spdlog-1.14.1/msvc/example/CMakeFiles/PACKAGE.dir
+N:/Development/Dev_Base/spdlog-1.14.1/msvc/example/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/spdlog-1.14.1/msvc/example/CMakeFiles/ALL_BUILD.dir
